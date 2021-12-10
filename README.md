@@ -7,9 +7,9 @@
  - 👨‍🎓I am a Cse Undergraduate Student at PDPM IIITDM Jabalpur.
  - 🌱Currently learning on MERN Stack and OOPS in C++ .
  - 💬Ask me About C++,Nodejs,Javascript.
- - Give me new things to learn, I would love to explore. 
- - Connect to me [Email](mailto:kparam6162@gmail.com) , [LinkedIn](https://www.linkedin.com/in/param-kesarwani-4846171b4).
- ⚡ Fun fact: We are Engineer😂
+ - 🌱Give me new things to learn, I would love to explore. 
+ - 📫Connect to me [Email](mailto:kparam6162@gmail.com) , [LinkedIn](https://www.linkedin.com/in/param-kesarwani-4846171b4).
+ - ⚡ Fun fact:If u are viewing my profiles then u are an Engineer😂
 
  <br/>
  <br/>
