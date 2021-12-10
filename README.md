@@ -1,10 +1,6 @@
-# Welcome Visitor's I am Param Kesarwani
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&color=%234F091D&size=25&lines=Hey+Visitor%F0%9F%91%8B+Myself+Param+Kesarwani;Competitive+Programmer%2C+Web+Developer)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt=gif align="right"> 
-
-<br />
 
 ## About Me
  
@@ -33,5 +29,4 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt=""> 
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=Param-987&theme=react-dark&custom_title=Param's%20Contribution%20Graph)](https://github.com/Param-987/github-readme-activity-graph)
-
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Param-987&hide=contribs&theme=gotham)](https://github.com/Param-987/github-readme-stats)
